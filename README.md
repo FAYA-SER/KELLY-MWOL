@@ -43,5 +43,28 @@ Project created by <a href="https://github.com/fayas-sir">fayas-sir</a> to make 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@GLANZFF/KELLY-QR?v=1)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FAYA-SER/KELLY-MWOL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FAYA-SER/KELLY-MWOL)
+
+### ABOUT KELLYMOWL
+
+              𝙷𝚈 𝙼𝚄𝚃𝙷𝙴𝙴...👋
+
+              ⭐𝙱𝙾𝚃 𝙸𝙽𝙵𝙾⭐
+𝙽𝙰𝙼𝙴 : 𝙺𝙴𝙻𝙻𝚈𝙼𝙾𝚆𝙻
+𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : 𝚅4
+𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙸𝙽𝙶 𝙳𝙰𝚃𝙴 : 𝚆𝙴𝙳 30 𝙼𝙰𝚁𝙲𝙷
+ 𝚃𝙸𝙼𝙴: 8:38 𝙿𝙼
+                 💥𝙲𝚁𝙴𝙰𝚃𝙾𝚁💥
+            𝙵𝙰𝚈𝙰𝚂 𝚂𝚄𝙱𝙰𝙸𝚁
+©𝚃𝙴𝙰𝙼 𝙺𝙴𝙻𝙻𝚈𝙼𝙾𝚆𝙻
+
+
+
+
+
+
+
+
+
+
  
