@@ -1,3 +1,15 @@
+<!---------- Typing SVG ---------->
+<p align="center">
+    <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?font=Halo+Handletter&color=66ffe9&size=32&lines=WELCOME+TO+KELLYMOWLBOT;BGM+BOT+[Forwa]...;MADE+BY....;FAYASSER-V3"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+
+
 <h3 align="center">𝐊𝐄𝐋𝐋𝐘 𝐌𝐖𝐎𝐋</h3>
 
 
